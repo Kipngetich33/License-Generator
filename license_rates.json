@@ -1,5 +1,5 @@
 {"periods_n_amount":{
-        "monthly":500,"quartely":1500,"yearly":6000,"trial":0
+        "monthly":500,"quartely":1500,"yearly":6000,"trial":1
     },
     "period_n_time_in_seconds":{
         "monthly":2592000,
